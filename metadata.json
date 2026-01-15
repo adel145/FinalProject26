@@ -1,0 +1,9 @@
+{
+  "name": "Miktsoan - Smart Pro Marketplace",
+  "description": "A Wolt-inspired, AI-powered marketplace connecting users with service professionals. Features smart matching, visual diagnosis, and digital contracts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
